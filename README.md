@@ -8,3 +8,4 @@ Hello there, I'm Sam Herrmann, a Freshman at Mizzou and I am majoring in Informa
  * [Video Games](gaming.md)
  * [Scouting](scouting.md)
  * [Dungeons & Dragons](DnD.md)
+ * [Required Block of Code](code.md)
