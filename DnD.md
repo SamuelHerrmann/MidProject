@@ -11,4 +11,7 @@ Later down the line my brother introduced me to **_Critical Role_**,a D&D livesh
 After that My brother started up a campaign, he invited his friends and I to play, so I got to make my second legitimate character, (we ran a campaign beforehand but we got killed off pretty quick) Mabel Wesson. she was an artificer, a magical inventor of sorts, but I played sort of as an old Sara Connor type of character, a veteran combat medic. She ran around with a robotic panther and a double barreled shotgun. It was fun as hell, but she also ended up dying later down the lie.
 
 A picture of Mabel drawn by my friend:
-[](Mabel_Wesson.jpg)
+
+![](Mabel_Wesson.jpg)
+
+Now a days I run D&D games for my friends online and friends in my college dorm. The one I run online is just dungeon crawls, and the dorm campaign is a seafarring adventure in a setting i made called _The Sea of Whales_.
