@@ -14,4 +14,4 @@ A picture of Mabel drawn by my friend:
 
 ![](Mabel_Wesson.jpg)
 
-Now a days I run D&D games for my friends online and friends in my college dorm. The one I run online is just dungeon crawls, and the dorm campaign is a seafarring adventure in a setting i made called _The Sea of Whales_.
+Now a days I run D&D games for my friends online and friends in my college dorm. The one I run online is just dungeon crawls, and the dorm campaign is a seafarring adventure in a setting I made called _The Sea of Whales_. I has quite the experiance for both, because the groups have a party size of 7 for the online one, and 8 for the college one. It's gonna be one wild ride!
